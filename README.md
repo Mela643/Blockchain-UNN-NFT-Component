@@ -12,7 +12,7 @@ Users should be able to:
 
 ### Screenshot
 
-(./images/nft-screenshot.jpg)
+![](./images/nft-screenshot.jpg)
 
 
 
