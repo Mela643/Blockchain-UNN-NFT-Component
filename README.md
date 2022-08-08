@@ -12,7 +12,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/nft-screenshot.jpg)
+(./images/nft-screenshot.jpg)
 
 
 
@@ -20,9 +20,6 @@ Users should be able to:
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
-Define your process here
 
 ### Built with
 
@@ -35,9 +32,9 @@ Define your process here
 ### What I learned
 
 - Learnt about flex box and some of its properties
-- Lewarnt semantic HTML5
+- Learnt semantic HTML5
 - Learnt new css properties 
-- Learnt a new way of cenetering a div
+- Learnt a new way of centering a div
 
 ## Acknowledgments
 
